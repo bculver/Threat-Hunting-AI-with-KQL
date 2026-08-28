@@ -1,0 +1,416 @@
+AiToolName,IoC
+Ability AI,ability.ai
+AG2,ag2.ai
+Agent Zero,agent-zero.ai
+Agenta,agenta.ai
+AgentForge,agentforge.net
+AgentGPT,agentgpt.reworkd.ai
+AgentiveHub,agentivehub.com
+AgentLabs,agentlabs.dev
+AgentMan,agentman.ai
+AgentOps,agentops.ai
+AgentOracle,agentoracle.co
+AgentPilot,agentpilot.ai
+AgentRunner,agentrunner.com
+Agents Inc,agents.inc
+AgentSet,agentset.ai
+AGiXT,agixt.com
+Agno,agno.com
+AutoGPT,agpt.co
+AI Agent,aiagent.app
+AI Humanizer Pro,aihumanizerpro.ai
+AI Rops,airops.com
+AIBTC,aibtc.dev
+Aider,aider
+Aider,aider.chat
+AIE Foundation,aie.foundation
+AIFA Labs,aifalabs.com
+AimDoc,aimdoc.ai
+Airtop,airtop.ai
+AISDR,aisdr.com
+AllenAI,allenai.github.io
+Amazon Titan,amazon.titan-text
+Anthropic,anthropic.com
+Anthropic,api.anthropic.com
+Anthropic Claude,anthropic.claude
+AnyBiz,anybiz.io
+Anyscale,anyscale.com
+Aomni,aomni.com
+Archilabs,archilabs.ai
+Artisan,artisan.co
+Ascendo,ascendo.ai
+Ask-AI,ask-ai.com
+AskMarvin,askmarvin.ai
+AutoAWQ,autoawq
+Autogen Studio,autogenstudio
+Autogen Studio,autogen-agentchat
+AutogenAI,autogenai.com
+AutoGPT,auto_gpt
+AutoGPT,AutoGPT
+AutoGPT,auto-gpt
+AutoGPTQ,AutoGPTQ
+Stable Diffusion (local),automatic1111
+AutoQA (https://www.autoqa.tech/),auto-qa.io
+Amazon Q / AWS AI,awq
+Amazon Q / AWS AI,bedrock.us-east-1.amazonaws.com
+Amazon Q / AWS AI,codewhisperer.us-east-1.amazonaws.com
+Amazon Q / AWS AI,q.us-east-1.amazonaws.com
+AxFlow,axflow.dev
+BaseAI,baseai.dev
+Bazed,bazed.ai
+BeamAI,beam.ai
+Bing AI,BingAI
+Bing Chat,bing.com/chat
+Blackbox AI,blackbox.ai
+Bland AI,bland.ai
+Blastrock,blastrock
+Blobr,blobr.io
+Bloop,bloop.ai
+Bolt,bolt.new
+Boto3,boto3
+Browserbase,browserbase.com
+Buildel,buildel.ai
+Cadea,cadea.ai
+Cal.com,cal.com
+CallFluent,callfluent.com
+Cara,getcara.ai
+Cekura,cekura.io
+Chaindesk,chaindesk.ai
+ChartGPT,chartgpt.io
+General LLM Indicators,chat_history.json
+Chat4Data,chat4data.ai
+ChatAgentX,chatagentx.com
+OpenAI ChatGPT,chatgpt
+OpenAI ChatGPT,chatgpt.com
+Cherry Studio,Cherry Studio.exe
+Cherry Studio,CherryStudio
+Cherry Studio,cherry-studio
+Claude,claude
+Claude,claude.ai
+Claude 3 Haiku,claude-3-haiku
+Claude 3 Opus,claude-3-opus
+Claude 3.5 Sonnet,claude-3-5-sonnet
+Claude v2 via Bedrock,claude.v2 (via Bedrock)
+CloseBot,closebot.com
+Cobl,cobl.ai
+CodeGPT,codegpt.co
+Codeium,codeium
+Codeium,codeium.com
+Codeium,codeium.exe
+CodeRabbit,coderabbit.ai
+Codestral,codestral
+Cognee,cognee.ai
+Cognigy,cognigy.com
+Cognition Labs,cognition-labs.com
+Cohere,cohere
+Cohere,cohere.com
+CollabAI,collabai.software
+ComfyUI,ComfyUI
+Composio,composio.dev
+Conda,conda-meta
+Confident AI,confident-ai.com
+ContextAI,context.ai
+Continue.dev,continue.dev
+Conversations,conversations.json
+Converzation,converzation.com
+Convolytic,convolytic.com
+Copilot,CopilotApp.exe
+Copilot,copilot-language-server
+Copilot,copilot-language-server.exe
+Copilot,copilot-notebook
+Copilot,copilot_token
+Copilot,copilot.vim
+Coval,coval.dev
+Creatok,creatok.ai
+Credal,credal.ai
+CrewAI,crewai.com
+Cursor,cursor
+Cursor,cursor.com
+Cursor,Cursor.exe
+Cursor,cursor.sh
+Cust,cust.co
+Dall-E,dall-e-2
+Dall-E,dall-e-3
+Deco,deco.cx
+Deepgram,deepgram.com
+DeepInfra,deepinfra.com
+DeepWisdom,deepwisdom.ai
+Dify,dify.ai
+Dori,dori.tech
+Dydas,dydas.com
+E2B,e2b.dev
+Einstein GPT,Einstein GPT
+ElevenLabs,elevenlabs
+ElevenLabs,elevenlabs.io
+Emergence AI,emergence.ai
+Enchanted,Enchanted.exe
+Endorsed,endorsed.com
+Enjo,enjo.ai
+Entelligence,entelligence.ai
+ExLLaMA,exllama
+ExLLaMA,exllamav2
+FairGo,fairgo.ai
+FastAgency,fastagency.ai
+Fetch.ai,fetch.ai
+Fine.dev,fine.dev
+Firecrawl,firecrawl.dev
+Flowhunt,flowhunt.io
+Flowise,flowiseai.com
+Foundry,foundry
+Foundry,FoundryLocal
+Google Gemini,gemini-2.0
+Google Gemini,GEMINI_API_KEY
+Google Gemini,gemini-1.5-flash
+Google Gemini,gemini-pro
+GenAI Config,genai_config.json
+General LLM Indicators,AI_API_KEY
+GenomOncology,genomoncology.com
+GGML,GGML
+GGUF,.gguf
+GGUF,GGUF
+GitHub Copilot,copilot
+GitHub Copilot,Copilot.exe
+GitHub Copilot,github.copilot
+GitHub Copilot,githubcopilot.com
+GitHub Copilot,github.copilot-chat
+GitHub Copilot,copilot-proxy.githubusercontent.com
+GitWit,gitwit.dev
+Google AI,aiplatform.gapic
+Google AI,aiplatform.googleapis.com
+Google AI,aistudio.google.com
+Google AI,AIzaSy
+Google AI,GOOGLE_API_KEY
+Google Bard,bard.google.com
+Google AI,google-cloud-aiplatform
+Google Gemini,gemini.google.com
+Google AI,google-generativeai
+Google AI,generativelanguage.googleapis.com
+GPT Engineer,gptengineer.app
+GPT4All,gpt4all
+GPT4All,gpt4all.exe
+GPTDetect,gptdetect.ai
+Gradient Labs,gradient-labs.ai
+Grammarly,Grammarly
+Grammarly,grammarly.com
+Grammarly,GrammarlyForWindows.exe
+Grammarly,grammarly-languageserver
+Groas,groas.ai
+Grok,grok-2
+Grok,grok-beta
+Grok,groq.com
+Happysales,happysales.ai
+Harpa,harpa.ai
+Haystack,haystack.deepset.ai
+Helicone,helicone.ai
+HTTP,http:
+HuggingFace,huggingface
+HuggingFace,huggingface.co
+HuggingFace Hub,HuggingFace Hub
+HuggingFace Hub,huggingface-hub
+HuggingFace Hub Token,HUGGING_FACE_HUB_TOKEN
+HuggingFace Inference,api-inference.huggingface.co
+HuggingFace Token,HF_TOKEN
+HuggingFace Transformers,AutoModelForCausalLM
+Hugo,hugo.ai
+Humane,humane.com
+Hume,hume.ai
+HyperWrite,app.hyperwriteai.com
+HyperWrite,hyperwriteai.com
+Imbue,imbue.com
+Inferable,inferable.ai
+Interviewer AI,interviewer.ai
+IvyCheck,ivycheck.com
+Jaiqu Agent,jaiqu-agent.streamlit.app
+Jan,jan.ai
+Jan,Jan.exe
+Jan Server,jan-server
+Jarvis,jarvis.cx
+Jasper,jasper.ai
+Jasper API,JASPER_API
+Jotform,jotform.com
+Jsonify,jsonify.com
+Kadoa,kadoa.com
+Kaia,kaia.team
+Kapa,kapa.ai
+Kay,kay.ai
+Keras Hub,keras_hub
+Keras NLP,keras_nlp
+KoboldAI,KoboldAI
+KoboldCPP,koboldcpp
+KoboldCPP,koboldcpp.exe
+KoboldCPP CUDA,koboldcpp_cublas.exe
+KoboldCPP No CUDA,koboldcpp_nocuda.exe
+Kognitos,kognitos.com
+Kolena,kolena.com
+Kusho,kusho.ai
+LangBase,langbase.com
+LangChain,langchain
+LangChain,langchain.com
+LangChain OpenAI,langchain-openai
+LangFlow,langflow.org
+LangFuse,langfuse.com
+LangWatch,langwatch.ai
+LeapingAI,leapingai.com
+Letta,letta.com
+Libraria,libraria.ai
+LibreChat,librechat
+Lightscreen,lightscreen.ai
+LinkUp,linkup.so
+LiteLLM,litellm.ai
+Litero,litero.ai
+Meta AI / LLaMA,llama2
+Meta AI / LLaMA,llama3
+Llama.cpp,llama-bench
+llama.cpp,llama-cli
+llama.cpp,llama-cpp-python
+llama.cpp,llama-quantize
+llama.cpp,llama-server
+Llama Simple,llama-simple
+Llama Sonar,llama-3.1-sonar
+Llama.cpp,llama.cpp
+LlamaHub,llamahub.ai
+LlamaIndex,llamaindex.ai
+LlamaIndex Dev,developers.llamaindex.ai
+General LLM Indicators,llm
+LLM API Key,LLM_API_KEY
+LLMStack,llmstack.ai
+LM Studio,LM Studio.exe
+LM Studio,lm-studio
+LM Studio,lmstudio.ai
+LMNT,lmnt.com
+LMQL,lmql.ai
+LMS,lms
+LMS,lms.exe
+Lobe Chat,lobe-chat
+LobeHub,lobehub
+LobeHub Chat Preview,chat-preview.lobehub.com
+LocalAI,localai
+LocalAI,local-ai
+Lovable,lovable.dev
+Lyzr,lyzr.ai
+MagicBlocks,magicblocks.ai
+MakeForm,makeform.ai
+MapsScraper,mapsscraper.ai
+General LLM Indicators,max_tokens
+MeetCosmo,meetcosmo.ai
+Mem0,app.mem0.ai
+MemGPT,memgpt.ai
+Mendable,mendable.ai
+Mer.vin,mer.vin
+Meta AI / LLaMA,ai.meta.com
+Meta AI / LLaMA,llama.meta.com
+Meta AI / LLaMA,meta.llama
+Metaflow,metaflow.life
+Microsoft Bing AI,api.bing.microsoft.com
+Microsoft Cognitive Services,Microsoft.CognitiveServices
+Microsoft Copilot,copilot.microsoft.com
+Microsoft Copilot,Microsoft.Copilot
+Microsoft Copilot,copilot.microsoft.com/api/
+Microsoft ML,Microsoft.ML
+Microsoft ML,Microsoft.ML.OnnxRuntimeGenAI
+Midjourney,midjourney.com
+Midjourney,cdn.midjourney.com
+Midjourney,discord.gg (Midjourney bot)
+Midjourney,mj-job-id
+Mintii,mintii.ai
+Mistral AI,mistralai
+Mistral AI,api.mistral.ai
+Mistral AI,mistral.ai
+Mistral AI,MISTRAL_API_KEY
+Mistral AI,mistral-large
+Mistral AI,mistral-small
+Mixtral,mixtral-8x7b
+NVIDIA Triton,model_weights
+ModelScope,modelscope
+ModelScope,modelscope.cn
+Momentic,momentic.ai
+Msty,Msty
+Msty,Msty.exe
+Multion,multion.ai
+Needle,needle.app
+Neets,neets.ai
+Nexa,nexa.ai
+Nexus GPT,gpt.nexus
+Nomic,nomic.ai
+Notion AI,notion.so
+Notion AI,api.notion.com
+Notion AI,NOTION_API_KEY
+Notion AI,notion-client
+Notion AI,notionhq
+Notion AI,NOTION_TOKEN
+Now Assist,Now Assist
+NPI,npi.ai
+Nurgo Software,nurgo-software.com
+NVIDIA Container Registry,nvcr.io
+NVIDIA CUDA,cublas64
+NVIDIA CUDA,libcublas.so
+NVIDIA CUDA,libcudart.so
+NVIDIA CUDA,nvcc (NVIDIA CUDA Compiler)
+NVIDIA CUDA,nvidia-smi
+Ollama,ollama
+Ollama,ollama.ai
+Ollama,ollama.com
+Ollama,ollama.exe
+ONNX GenAI,onnx
+ONNX GenAI,libonnxruntime-genai.so
+ONNX GenAI,onnxruntime_genai.dll
+ONNX GenAI,onnxruntime-genai
+OpenAI,open-interpreter
+OpenAGI,openagi.aiplanet.com
+OpenAI,openai
+OpenAI,openai.com
+OpenAI Model,gpt-3.5-turbo
+OpenAI Model,gpt-4
+OpenAI Model,gpt-4o
+OpenAI Model,o1-preview
+OpenAI Model,o3-mini
+OpenAI,OPENAI_ORG_ID
+General LLM Indicators,completion_tokens
+OpenHands,openhands.dev
+OpenPipe,openpipe.ai
+OpenRouter,openrouter.ai
+Operators.dev,operators.dev
+Oraczen,oraczen.ai
+Outcall,outcall.app
+Outlines,outlines-dev.github.io
+Outverse,outverse.com
+Owlity,owlity.ai
+PeriscopeChat,periscopechat.com
+Perplexity,perplexity.ai
+Perplexity,PERPLEXITY_API_KEY
+Microsoft Foundry Local / Windows AI,Phi Silica
+Phonely,phonely.ai
+Pieces,pieces.app
+Pinecone API Key,PINECONE_API_KEY
+Pinokio,pinokio.computer
+Play.ai,play.ai
+Play.ht,play.ht
+Portkey,portkey.ai
+Posium,posium.ai
+Potpie,potpie.ai
+PrivateGPT,privategpt.dev
+Produvia,produvia.com
+General LLM Indicators,prompt_tokens
+PureCode,purecode.ai
+Pydantic AI,ai.pydantic.dev
+Pydantic AI,docs.pydantic.dev
+Qode,qode.world
+Qodo,qodo.ai
+General LLM Indicators,quantize
+Rebolt,rebolt.ai
+RelevanceAI,relevanceai.com
+Replit,replit.com
+Respell,respell.ai
+ResponseCX,response.cx
+Restack,restack.io
+RunwayML,api.runwayml.com
+SafeTensors,.safetensors
+Salesforce Einstein,api.salesforce.com/einstein
+Salesforce Einstein,einstein.salesforce.com
+ServiceNow AI,instance.service-now.com/api/now/ai
+TabNine,api.tabnine.com
+UseInstructor,python.useinstructor.com
+xAI,api.x.ai
+xAI Grok,grok.x.ai
+Zep,getzep.com
+Zowie,getzowie.com
